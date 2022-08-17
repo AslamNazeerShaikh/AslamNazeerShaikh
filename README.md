@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=2%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=2%2B+years+of+professional+experience." alt="Typing SVG" /></a>
 </p>
 
 - 👀 I’m interested in Linux & Open Source 
@@ -15,7 +15,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/aslam-shaikh-007/
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=AB24F7&center=true&width=435&lines=Languages+and+Tools+Used" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=AB24F7&center=true&width=435&lines=Languages+and+Tools+Used." alt="Typing SVG" /></a>
 </p>
 
 <!---
