@@ -13,7 +13,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/aslam-shaikh-007/
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=AB24F7&center=true&width=435&lines=Languages+and+Tools+Used." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&height=30&lines=Languages+%26+Technologies+Used." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
