@@ -10,7 +10,7 @@
 - 👀 I’m interested in Linux & Open Source 
 - 🌱 I’m currently learning Azure Cloud & C#
 - 💞️ I’m looking to collaborate on API Projects
-- 📫 How to reach me https://www.linkedin.com/in/aslam-shaikh-007/
+- 📫 How to reach me https://www.linkedin.com/in/aslamnazeershaikh/
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=Languages+%26+Technologies+Used." alt="Typing SVG" /></a>
