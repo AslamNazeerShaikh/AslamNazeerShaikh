@@ -10,7 +10,9 @@
 - 👀 I’m interested in Linux & Open Source 
 - 🌱 I’m currently learning Azure Cloud & C#
 - 💞️ I’m looking to collaborate on API Projects
-- 📫 How to reach me https://www.linkedin.com/in/aslamnazeershaikh/
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="aslamnazeershaikh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aslamnazeershaikh?trk=profile-badge">Aslam Shaikh</a></div>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=Languages+%26+Technologies+Used." alt="Typing SVG" /></a>
