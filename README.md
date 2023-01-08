@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=2%2B+years+of+professional+experience." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=3%2B+years+of+professional+experience." alt="Typing SVG" /></a>
 </p>
 
 - 👀 I’m interested in Linux & Open Source 
