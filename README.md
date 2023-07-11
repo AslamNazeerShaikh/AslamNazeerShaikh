@@ -7,11 +7,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=3%2B+years+of+professional+experience." alt="Typing SVG" /></a>
 </p>
 
-- 👀 I’m interested in Linux & Open Source 
-- 🌱 I’m currently learning Azure Cloud & C#
-- 💞️ I’m looking to collaborate on API Projects
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="aslamnazeershaikh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aslamnazeershaikh?trk=profile-badge">Aslam Shaikh</a></div>
+<p align="center">
+- 👀 I’m interested in REST, Microservices & System Desinging
+- 🌱 I’m currently developing & working with Dot Net & Azure Cloud
+- 💞️ I’m looking to collaborate on Linux, API & Open Source Projects
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=Languages+%26+Technologies+Used." alt="Typing SVG" /></a>
@@ -65,7 +65,8 @@ BeingTiger007/BeingTiger007 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<br></br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="aslamnazeershaikh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aslamnazeershaikh?trk=profile-badge">Aslam Shaikh</a></div>
+
 <p align="center">
-![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamNazeerShaikh\&rank_icon=github)
+<a href="https://in.linkedin.com/in/aslamnazeershaikh">[smiley.gi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitef</a>
 </p>
