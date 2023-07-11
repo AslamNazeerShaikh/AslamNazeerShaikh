@@ -65,8 +65,7 @@ BeingTiger007/BeingTiger007 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="aslamnazeershaikh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aslamnazeershaikh?trk=profile-badge">Aslam Shaikh</a></div>
-
+</br>
 <p align="center">
-<a href="https://in.linkedin.com/in/aslamnazeershaikh">[smiley.gi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitef</a>
+<a href="https://in.linkedin.com/in/aslamnazeershaikh"> <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> </a>
 </p>
