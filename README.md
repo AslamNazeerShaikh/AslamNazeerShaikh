@@ -64,4 +64,8 @@
 BeingTiger007/BeingTiger007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamNazeerShaikh\&show=reviews,discussions_started,discussions_answered)
+
+<br></br>
+<div align="center">
+![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamNazeerShaikh\&rank_icon=github)
+</div>
