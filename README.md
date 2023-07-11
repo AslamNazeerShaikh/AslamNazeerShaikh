@@ -66,6 +66,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br></br>
-<div align="center">
+<p align="center">
 ![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamNazeerShaikh\&rank_icon=github)
-</div>
+</p>
