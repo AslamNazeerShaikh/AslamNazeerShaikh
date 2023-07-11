@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-- 👀 I’m interested in REST, Microservices & System Desinging
-- 🌱 I’m currently developing & working with Dot Net & Azure Cloud
-- 💞️ I’m looking to collaborate on Linux, API & Open Source Projects
+- 👀 I’m interested in REST, Microservices & System Desinging </br>
+- 🌱 I’m currently developing & working with Dot Net & Azure Cloud </br>
+- 💞️ I’m looking to collaborate on Linux, API & Open Source Projects </br>
 </p>
 
 <p align="center">
