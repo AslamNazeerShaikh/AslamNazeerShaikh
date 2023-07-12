@@ -4,13 +4,12 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=3%2B+years+of+professional+experience." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=3%2B+years+of+professional+experience." alt="Typing SVG" />
 </p>
-
 <p align="center">
-- 👀 I’m interested in REST, Microservices & System Desinging </br>
-- 🌱 I’m currently developing & working with Dot Net & Azure Cloud </br>
-- 💞️ I’m looking to collaborate on Linux, API & Open Source Projects </br>
+● Interested in REST, Microservices & System Desinging ● </br>
+● Currently developing & working with Dot Net & Azure Cloud ● </br>
+● Looking to collaborate on Linux, API & Open Source Projects ● </br>
 </p>
 
 <p align="center">
