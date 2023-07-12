@@ -67,5 +67,5 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 <p align="center">
-<a href="https://in.linkedin.com/in/aslamnazeershaikh"> <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> </a>
+<a href="https://in.linkedin.com/in/aslamnazeershaikh"> <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> </a>
 </p>
