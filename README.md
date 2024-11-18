@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AslamNazeerShaikh/>
+  <img img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AslamNazeerShaikh/>
 </p>
 
 <p align="center">
