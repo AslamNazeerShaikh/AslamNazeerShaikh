@@ -37,9 +37,7 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AslamNazeerShaikh />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AslamNazeerShaikh&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AslamNazeerShaikh&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AslamNazeerShaikh" />
 </p>
 
 <p align="center">
