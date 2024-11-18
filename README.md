@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AslamNazeerShaikh" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamNazeerShaikh&theme=transparent" />
 </p>
 
 <p align="center">
