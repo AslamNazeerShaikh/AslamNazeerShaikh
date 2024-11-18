@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamNazeerShaikh&theme=transparent" />
+  <img width="100" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamNazeerShaikh&theme=transparent" />
 </p>
 
 <p align="center">
