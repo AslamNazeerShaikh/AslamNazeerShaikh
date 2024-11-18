@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=5%2B+Years+of+professional+experience." alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -34,69 +30,31 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+</div></br>
+
+<b> SYNOPSIS </b> </br>
+🚀 A highly skilled professional with over 5+ years of experience in delivering cutting-edge software solutions that drive business success. Adept in architecting and implementing clean, scalable, and maintainable code using modern design patterns and architecture patterns. 💡 Expertise in responsive design, integrating the background services such as email, PDF generation, and data ETL processes, etc. to till in complex domains such as background events, authentication & authorization. 🔐 Passionate about building high-performance applications with a focus on security, automation, and system efficiency. 💼
+
+🎓 A Master of Science in Computer Software Engineering graduate, honored with multiple awards at both state and national levels for research and innovation. 🏆 Based in Pune, Maharashtra, I bring a proven ability to excel in collaborative environments, tackling complex challenges with a solutions-oriented approach. 👨‍💻 🙌
+
+<p align="center">
+  <img width=100% height=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamNazeerShaikh&theme=2077" />
+</p>
+
+<b> OBJECTIVE </b> </br>
+💻 🌟 A top-tier Software Engineer and Architect with a proven track record of excellence in designing, developing, and optimizing complex software solutions. 📈✨ With a deep understanding of design patterns, architecture patterns, and background services, I ensure high-quality, scalable, and efficient systems. 🔧📜 Proficient in Java, C#, JavaScript, and TypeScript, with a strong focus on clean & best coding practices, optimization, and building efficient applications. 
+
+🛠️ 🌐 Strong understanding of networking principles such as TCP/IP, DNS, HTTP protocols & APIs, and network security, 🔌 enabling effective troubleshooting and optimization of network communication. 🐧 Hands-on experience with Linux environments, including command-line usage, shell scripting, system administration, and containerization (Docker), ensuring smooth operation and deployment of applications in Unix-based systems.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%; margin: 0 auto;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AslamNazeerShaikh&theme=2077" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AslamNazeerShaikh&theme=2077" width="48%" />
 </div>
 
-<p align="center">
-  <img width=100% height=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamNazeerShaikh&theme=transparent" />
-</p>
-
-<p align="center">
-● Interested in REST, Microservices & System Designing ● </br>
-● Currently developing & working with Dot Net & Azure Cloud ● </br>
-● Looking to collaborate on Linux, API & Open Source Projects ● </br>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=30&lines=Languages+%26+Technologies+Used." alt="Typing SVG" /></a>
-</p>
-
-<div align="center">
-<img align="center" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
-<img align="center" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
-<img align="center" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" /> 
-<img align="center" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding:10px;" />
-<img align="center" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
-<img align="center" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" />
-<img align="center" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:10px;"/>
-    
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knockout/knockout-plain-wordmark.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   <img align="center" width="30px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-   
-  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%; margin: 0 auto;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AslamNazeerShaikh&theme=2077" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AslamNazeerShaikh&theme=2077&utcOffset=8" width="48%" />
 </div>
-
-<!---
-BeingTiger007/BeingTiger007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 </br>
 <p align="center">
